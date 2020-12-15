@@ -7,7 +7,7 @@ This is a GAME of **HANGMAN** created using **PYGAME** module in PYTHON
 2. For each wrong letter pressed, a part of the HANGMAN appears
 3. When the HANGMAN image is complete , you lose the game 
  
-**HINTS** : The word can be randomly selected from any of the following words : 
+**HINTS** : The word can be randomly selected from any of the following words :   
 words_list = ["PYTHON", "PYGAME", "CODING", "JAVA", "IDE", "COMPILER", "BINARY", "FUNCTION", "LOOPING"]
 
 
